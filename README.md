@@ -34,6 +34,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bizbunny&theme=calm-pink&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bizbunny&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/bizbunny/github-readme-stats)
 
 ***
 
