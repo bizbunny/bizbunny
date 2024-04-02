@@ -4,6 +4,10 @@
     <a href="https://twitter.com/anh_bizbunny"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter"/></a>
   </div>
   ### Hi there 👋
+  
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@vnblacksheep60416/30-nites-of-code)  
+  ![@vnblacksheep60416 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=vnblacksheep60416)
 </div>
 
 
@@ -23,6 +27,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@vnblacksheep60416/30-nites-of-code)  
-  ![@vnblacksheep60416 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=vnblacksheep60416)
