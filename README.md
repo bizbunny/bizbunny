@@ -6,9 +6,9 @@
     <a href="https://www.instagram.com/anh_bizbunny/"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram"/></a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=bizbunny&style=flat-square&color=blue" alt="view count"/>
-  ### Hi there 👋
 </div>
 
+### Hi there 👋
 
 ***
 
