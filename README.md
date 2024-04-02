@@ -1,4 +1,4 @@
-[![Decorative banner for bizbunny](IconHeader.svg)](https://www.linkedin.com/in/vi-anh-nguyen-7a5698103/)
+[![Decorative banner for bizbunny](IconHeader2.svg)](https://www.linkedin.com/in/vi-anh-nguyen-7a5698103/)
 
 <div id="header"align="center">
   <div id="badges">
