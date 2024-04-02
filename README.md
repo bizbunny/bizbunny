@@ -1,10 +1,12 @@
 <div id="header"align="center">
-<img src="https://pbs.twimg.com/profile_images/1609275334779719683/o9MZjY66_400x400.jpg" alt="my main logo"/>
+  <img src="https://pbs.twimg.com/profile_images/1609275334779719683/o9MZjY66_400x400.jpg" alt="my main logo"/>
+  <div id="badges">
+    <a href="https://twitter.com/anh_bizbunny"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter"/></a>
+  </div>
+  ### Hi there 👋
 </div>
-<div id="badges">
-  <a href="https://twitter.com/anh_bizbunny"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter"/></a>
-</div>
-### Hi there 👋
+
+
 
 <!--
 **bizbunny/bizbunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
