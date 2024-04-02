@@ -1,7 +1,6 @@
 [![Decorative banner for bizbunny](IconHeader.svg)](https://www.linkedin.com/in/vi-anh-nguyen-7a5698103/)
 
 <div id="header"align="center">
-  <img src="https://pbs.twimg.com/profile_images/1609275334779719683/o9MZjY66_400x400.jpg" alt="my main logo"/>
   <div id="badges">
     <a href="https://twitter.com/anh_bizbunny"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter"/></a>
     <a href="https://codepen.io/anh_bizbunny"><img src="https://img.shields.io/badge/Codepen-yellow?logo=codepen&logoColor=black&style=for-the-badge" alt="codepen"/></a>
