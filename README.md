@@ -1,3 +1,5 @@
+[![Decorative banner for bizbunny](https://github.com/bizbunny/bizbunny/raw/master/iconheader.svg)](https://www.linkedin.com/in/vi-anh-nguyen-7a5698103/)
+
 <div id="header"align="center">
   <img src="https://pbs.twimg.com/profile_images/1609275334779719683/o9MZjY66_400x400.jpg" alt="my main logo"/>
   <div id="badges">
