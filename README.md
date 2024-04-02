@@ -8,6 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=bizbunny&style=flat-square&color=blue" alt="view count"/>
   ### Hi there 👋
 </div>
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -21,7 +22,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<hr/>
+---
+
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@vnblacksheep60416/30-nites-of-code)  
   ![@vnblacksheep60416 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=vnblacksheep60416)
