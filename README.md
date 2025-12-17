@@ -40,8 +40,10 @@
 
 
 ### 🌸 Some of My Favorite Repos :
-#### Electron
-#### Renpy
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 |Repo|Description|---|---|[`Eggy And Egglette`](https://github.com/bizbunny/EggyAndEgglette)|A bigger than usual game I'm making| 
 
 
