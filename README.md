@@ -41,10 +41,9 @@
 
 ### 🌸 Some of My Favorite Repos :
 | Repo | Description |
-| --- | --- | Repo |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-|Repo|Description|---|---|[`Eggy And Egglette`](https://github.com/bizbunny/EggyAndEgglette)|A bigger than usual game I'm making| 
+| --- | --- |
+| [`Eggy And Egglette`](https://github.com/bizbunny/EggyAndEgglette) | Bigger game made in Renpy |
+| [`Book Notes`](https://github.com/bizbunny/BookNotes) | HTML, CSS, JS, with a bit more backend |
 
 
 ***
