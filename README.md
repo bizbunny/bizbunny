@@ -42,7 +42,7 @@
 ### 🌸 Some of My Favorite Repos :
 #### Electron
 #### Renpy
-| Repo | Description | --- | --- | [`Eggy And Egglette](https://github.com/bizbunny/EggyAndEgglette) | A bigger Renpy game I'm making | 
+|Repo|Description|---|---|[`Eggy And Egglette`](https://github.com/bizbunny/EggyAndEgglette)|A bigger than usual game I'm making| 
 
 
 ***
