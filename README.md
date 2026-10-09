@@ -42,6 +42,7 @@
 ### 🌸 Some of My Favorite Repos :
 | Repo | Description |
 | --- | --- |
+| [`Desktop Valko`](https://github.com/bizbunny/ValkoDesktopApp) | basically a fan game of a Love and DeepSpace character |
 | [`Eggy And Egglette`](https://github.com/bizbunny/EggyAndEgglette) | Bigger game made in Renpy |
 | [`Book Notes`](https://github.com/bizbunny/BookNotes) | HTML, CSS, JS, with a bit more backend |
 
