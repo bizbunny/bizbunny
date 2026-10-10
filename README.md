@@ -2,9 +2,9 @@
 
 <div id="header"align="center">
   <div id="badges">
-    <a href="https://twitter.com/anh_bizbunny"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="twitter"/></a>
+    <a href=""><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=black&style=for-the-badge" alt="YouTube"/></a>
     <a href="https://codepen.io/anh_bizbunny"><img src="https://img.shields.io/badge/Codepen-yellow?logo=codepen&logoColor=black&style=for-the-badge" alt="codepen"/></a>
-    <a href="https://www.instagram.com/anh_bizbunny/"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram"/></a>
+    <a href="https://www.instagram.com/bizbunny_pixels/"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram"/></a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=bizbunny&style=flat-square&color=blue" alt="view count"/>
 </div>
